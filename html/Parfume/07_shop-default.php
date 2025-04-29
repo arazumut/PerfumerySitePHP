@@ -32,7 +32,8 @@
             <div class="section-hero">
                 <div class="section-hero__bg"><img src="assets/img/shop-hero-default.jpg" alt="home-hero"></div>
                 <div class="section-hero__content" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500">
-                    <h1 class="section-hero__title">Our Shop</h1>
+                    <h1 class="section-hero__title">Mağazamız</h1>
+                    <p class="section-hero__subtitle">Viasun Ürünleri</p>
                 </div>
             </div>
             <div class="page-content">
@@ -56,9 +57,9 @@
                                             <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-7.png" alt="V-Beauty Pack" />
                                                 <div class="product-card__btns">
                                                     <ul>
-                                                        <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                        <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                        <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                        <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -84,9 +85,9 @@
                                             <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-8.png" alt="Anti-Aging Cream" />
                                                 <div class="product-card__btns">
                                                     <ul>
-                                                        <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                        <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                        <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                        <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -112,9 +113,9 @@
                                             <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-9.png" alt="Hair Style Gel" />
                                                 <div class="product-card__btns">
                                                     <ul>
-                                                        <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                        <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                        <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                        <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -140,9 +141,9 @@
                                             <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-10.png" alt="V-Bath Saltish" />
                                                 <div class="product-card__btns">
                                                     <ul>
-                                                        <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                        <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                        <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                        <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -168,9 +169,9 @@
                                             <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-11.png" alt="Beauty Glow Serum" />
                                                 <div class="product-card__btns">
                                                     <ul>
-                                                        <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                        <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                        <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                        <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -196,9 +197,9 @@
                                             <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-12.png" alt="Skinny Lotion" />
                                                 <div class="product-card__btns">
                                                     <ul>
-                                                        <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                        <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                        <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                        <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                        <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                        <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>

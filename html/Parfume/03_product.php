@@ -33,8 +33,8 @@
             <div class="section-hero">
                 <div class="section-hero__bg"><img src="assets/img/contacts-hero.jpg" alt="home-hero"></div>
                 <div class="section-hero__content" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500">
-                    <h1 class="section-hero__title section-hero__top_padding">Anti-Aging Cream</h1>
-                    <p class="section-hero__subtitle">By Viasun</p>
+                    <h1 class="section-hero__title section-hero__top_padding">Yaşlanma Karşıtı Krem</h1>
+                    <p class="section-hero__subtitle">Viasun Tarafından</p>
                 </div>
             </div>
             <div class="section-product-info">
@@ -56,13 +56,13 @@
                     <div class="uk-flex-first@l">
                         <div class="section-product-info__box">
                             <div class="section-product-info__content" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500">
-                                <div class="section-title section-product-info__title"><span>Look Beautiful At Any Age</span>
-                                    <h3>Anti-Aging Cream</h3>
+                                <div class="section-title section-product-info__title"><span>Her Yaşta Güzel Görünün</span>
+                                    <h3>Yaşlanma Karşıtı Krem</h3>
                                 </div>
                                 <div class="section-product-info__intro">
                                     <p>Enim venia quis nostrud exrcit ulamco laboris com reprehen derit fugiat nula pariatur sint ipsum caecat. Lorem ipsum dolor am etur adipisicing elit sed tempor.</p>
                                 </div>
-                                <div class="section-product-info__price"> <sup>$</sup><span>135.00</span></div>
+                                <div class="section-product-info__price"> <sup>₺</sup><span>135,00</span></div>
                                 <div class="section-product-info__size">
                                     <ul>
                                         <li><label><input type="radio" name="size"><span>75ml</span></label></li>
@@ -75,9 +75,9 @@
                                         <div class="jq-number__spin minus"></div>
                                         <div class="jq-number__field"><input class="input-col" type="number" value="1" min="1"></div>
                                         <div class="jq-number__spin plus"></div>
-                                    </div><button class="uk-button uk-button-danger uk-button-large" type="button">Add to bag </button>
+                                    </div><button class="uk-button uk-button-danger uk-button-large" type="button">Sepete Ekle</button>
                                 </div>
-                                <div class="section-product-info__category">Categories: Hair, Makeup, Skin Care</div>
+                                <div class="section-product-info__category">Kategoriler: Saç, Makyaj, Cilt Bakımı</div>
                             </div>
                         </div>
                     </div>
@@ -88,10 +88,10 @@
                     <div class="section-product-desc__title section-product-desc__title_center">
                         <ul>
                             <li class="ankr-active">
-                                <div class="uk-h3">Description</div>
+                                <div class="uk-h3">Açıklama</div>
                             </li>
                             <li>
-                                <div class="uk-h3"><a href="#reviews" data-uk-scroll> Reviews</a></div>
+                                <div class="uk-h3"><a href="#reviews" data-uk-scroll> Yorumlar</a></div>
                             </li>
                         </ul>
                     </div>
@@ -101,8 +101,8 @@
             <div class="section-new-arrivals">
                 <div class="uk-background-muted">
                     <div class="uk-section-large uk-container">
-                        <div class="section-title" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500"><span>Best suiting & clothing</span>
-                            <h3>Shop New Arrivals</h3>
+                        <div class="section-title" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500"><span>En iyi takım & giyim</span>
+                            <h3>Yeni Gelenleri Keşfet</h3>
                         </div>
                         <div class="section-content" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-medium">
                             <div class="slider-outline" data-uk-slider>
@@ -114,9 +114,9 @@
                                                     <div class="product-card__media"> <img class="product-card__img" src="assets/img/img-product-1.jpg" alt="V-Beauty Pack" />
                                                         <div class="product-card__btns">
                                                             <ul>
-                                                                <li><a href="#"><span>Add to cart</span><i class="fas fa-shopping-basket"></i></a></li>
-                                                                <li><a href="#"><span>zoom</span><i class="fas fa-search-plus"></i></a></li>
-                                                                <li><a href="#"><span>Add to wishlist</span><i class="fas fa-heart"></i></a></li>
+                                                                <li><a href="#"><span>Sepete ekle</span><i class="fas fa-shopping-basket"></i></a></li>
+                                                                <li><a href="#"><span>yakınlaştır</span><i class="fas fa-search-plus"></i></a></li>
+                                                                <li><a href="#"><span>Favorilere ekle</span><i class="fas fa-heart"></i></a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -177,12 +177,12 @@
             <div class="section-reviews uk-margin-large-bottom" id="reviews">
                 <div class="uk-section-large uk-container">
                     <div data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500">
-                        <div class="section-reviews__title">What Customers Saying</div>
+                        <div class="section-reviews__title">Müşteri Yorumları</div>
                         <div class="uk-position-relative" tabindex="-1" data-uk-slider>
                             <ul class="uk-slider-items uk-grid uk-child-width-1-1">
                                 <li>
                                     <blockquote>
-                                        <p data-uk-slideshow-parallax="x: 300,-300">“The right place to buy cosmetic products with luxury & stylish, - The unbeaten price & uncompromising quality.“</p><cite data-uk-slideshow-parallax="x: 200,-200">Sadia O’Conner, USA</cite>
+                                        <p data-uk-slideshow-parallax="x: 300,-300">“Lüks ve şık kozmetik ürünleri almak için doğru adres, - Rakipsiz fiyat & ödünsüz kalite.“</p><cite data-uk-slideshow-parallax="x: 200,-200">Sadia O’Conner, ABD</cite>
                                     </blockquote>
                                 </li>
                                 <li>

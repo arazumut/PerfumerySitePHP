@@ -34,7 +34,8 @@
             <div class="section-hero">
                 <div class="section-hero__bg"><img src="assets/img/blog-hero.jpg" alt="home-hero"></div>
                 <div class="section-hero__content" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500">
-                    <h1 class="section-hero__title section-hero__top_padding">Blog Main</h1>
+                    <h1 class="section-hero__title">Blog</h1>
+                    <p class="section-hero__subtitle">Viasun Blogu</p>
                 </div>
             </div>
             <div class="page-content">
@@ -176,14 +177,15 @@
                                     </ul>
                                 </div>
                                 <div class="widjet widjet-newsletter">
-                                    <h4 class="widjet__title">Newsletter</h4>
-                                    <p>Get Viasun Newsletter and Stay Updated With Us</p>
+                                    <div class="section-title"><span>En iyi takım & giyim</span>
+                                        <h3>Viasun Bültenine Katılın & Bizimle Güncel Kalın</h3>
+                                    </div>
                                     <form class="form-newsletter" action="#!">
                                         <!-- Hidden Required Fields -->
                                         <input type="hidden" name="project_name" value="Viasun">
                                         <input type="hidden" name="admin_email" value="test@gmail.com">
                                         <input type="hidden" name="form_subject" value="Newsletter">
-                                        <!-- END Hidden Required Fields --><button type="submit"><i class="fas fa-envelope-open"></i></button><input class="uk-input uk-form-large" type="email" name="Email" placeholder="Email">
+                                        <!-- END Hidden Required Fields --><button type="submit"><i class="fas fa-envelope-open"></i></button><input type="text" placeholder="epostaniz@ornek.com"><input class="uk-button uk-button-danger" type="submit" value="Şimdi Abone Ol">
                                     </form>
                                 </div>
                                 <div class="widjet widjet-tags-cloud">

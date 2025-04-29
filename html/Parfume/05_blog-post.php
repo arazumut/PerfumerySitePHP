@@ -33,12 +33,8 @@
             <div class="section-hero">
                 <div class="section-hero__bg"><img src="assets/img/post-hero.jpg" alt="post-hero"></div>
                 <div class="section-hero__content" data-uk-scrollspy="target: &gt; *; cls: uk-animation-slide-bottom-small; delay: 500">
-                    <h1 class="article-full__title section-hero__top_padding">15 Tips For a Perfect Makeup</h1>
-                    <div class="article-full__info">
-                        <div class="article-full__author"><img src="assets/img/img-blog-author.png" alt="blog-author"><span>Rebicca h. clark</span></div>
-                        <div class="article-full__date"><i class="icon_calendar"></i><span>31 jan 2021</span></div>
-                        <div class="article-full__category"><i class="icon_ribbon_alt"></i><span>Makeup</span></div>
-                    </div>
+                    <h1 class="section-hero__title section-hero__top_padding">Blog Yazısı</h1>
+                    <p class="section-hero__subtitle">Viasun Blogu</p>
                 </div>
             </div>
             <div class="page-content">
